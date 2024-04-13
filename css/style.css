@@ -447,6 +447,7 @@ a:focus {
 
 .about_section .heading_container h2 {
   text-transform: uppercase;
+  padding: 20px;
 }
 
 .about_section .detail-box {
@@ -732,6 +733,7 @@ a:focus {
 
 .contact_section .heading_container {
   margin-bottom: 15px;
+  padding: 20px;
 }
 
 .contact_section .heading_container h2::before {
